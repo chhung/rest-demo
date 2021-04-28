@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.workflow</groupId>
 	<artifactId>rest-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>rest-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -41,7 +41,6 @@
 			<version>3.12.0</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
